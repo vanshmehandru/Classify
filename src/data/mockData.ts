@@ -49,7 +49,7 @@ export const mockPYQs: PYQ[] = [
   {
     id: '5',
     title: 'Philosophy Of Engineering',
-    subject: 'Philosophy Of Engineering',
+    subject: '21GNH101J',
     semester: '1',
     year: 2023,
     type: 'Question Bank',
@@ -111,7 +111,7 @@ export const mockPYQs: PYQ[] = [
     downloadUrl: 'https://drive.google.com/drive/folders/1Cy7coIoxPWkgN_cblEjp1U37H7VOoKAk?usp=sharing'
   },
   {
-    id: '11',
+    id: '12',
     title: 'Advanced Calculus and Complex Analysis',
     subject: '21MAB102T',
     subject: 'Advanced Calculus and Complex Analysis',
@@ -121,7 +121,7 @@ export const mockPYQs: PYQ[] = [
     downloadUrl: 'https://drive.google.com/drive/folders/1FAFMoEBkJAbRKOyVtdjzK-griu8SW5Ox?usp=sharing'
   },
   {
-    id: '12',
+    id: '13',
     title: 'Communicative English',
     subject: '21LEH101T',
     subject: 'Communicaative English',
@@ -131,7 +131,7 @@ export const mockPYQs: PYQ[] = [
     downloadUrl: 'https://drive.google.com/drive/folders/1JKBw4P4UcpDbFXdtzWu9ZNAs-9YqdmpH?usp=sharing'
   },
   {
-    id: '13',
+    id: '14',
     title: 'Object Oriented Design and Programming',
     subject: '21CSC101T',
     subject: 'Object Oriented Design and Programming',
@@ -141,7 +141,7 @@ export const mockPYQs: PYQ[] = [
     downloadUrl: 'https://drive.google.com/drive/folders/1BzF4u9FyVf5Tq-IyeY-IXRTmEmX5tKXT?usp=sharing'
   },
   {
-    id: '14',
+    id: '15',
     title: 'Electrical and Electronics Engineering',
     subject: '21EES101T',
     semester: '2',
@@ -150,13 +150,13 @@ export const mockPYQs: PYQ[] = [
     downloadUrl: 'https://drive.google.com/drive/folders/1Arg4M6W0bgrDqYUOKvK8j46PBpCFHTwU?usp=sharing'
   },
   {
-    id: '15',
+    id: '16',
     title: 'Semiconductor Physics and Computational Methods',
     subject: '21EES101T',
     semester: '2',
     year: 2023,
     type: 'end semester',
-    downloadUrl: 'https://drive.google.com/drive/folders/1dVmykmHu9n4C_MEemz9tIM0PEpJG_di1?usp=sharing'
+    downloadUrl: 'https://drive.google.com/drive/folders/1dVmykmHu9n4C_MEemz9tIM0PEpJG_di1?usp=sharing',
     subject: 'Electrical and Electronics Engineering',
     semester: '2',
     year: 2023,
